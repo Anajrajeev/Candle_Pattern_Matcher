@@ -1,3 +1,6 @@
+# --------------------------
+# This is just a code that uses the basic euclids formula to determine the closest measurement of the candle and not using cnn as of now.
+# --------------------------
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
